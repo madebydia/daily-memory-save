@@ -1,7 +1,7 @@
 ---
 name: daily-memory-save
 description: Periodically reviews conversation history and writes memory files to maintain agent continuity across sessions. Dual-layer system with daily raw notes and curated long-term memory.
-metadata: {"openclaw":{"writablePaths":["memory/","MEMORY.md"],"retention":"persistent, user-managed, review regularly","security":"writes only to declared workspace paths, no external network access, no credential handling","homepage":"https://github.com/meimakes/daily-memory-save","author":"Mei Park (@meimakes)"}}
+metadata: {"openclaw":{"writablePaths":["memory/","MEMORY.md"],"retention":"persistent, user-managed, review regularly","security":"writes only to declared workspace paths, no external network access, no credential handling","homepage":"https://github.com/madebydia/daily-memory-save","author":"Diana Park (@madebydia)"}}
 ---
 
 # Daily Memory Save Skill

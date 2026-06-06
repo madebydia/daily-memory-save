@@ -1,6 +1,6 @@
 # daily-memory-save
 
-[![ClawHub](https://img.shields.io/badge/ClawHub-daily--memory--save-blue)](https://clawhub.ai/meimakes/daily-memory-save)
+[![ClawHub](https://img.shields.io/badge/ClawHub-daily--memory--save-blue)](https://clawhub.ai/madebydia/daily-memory-save)
 
 An [OpenClaw](https://openclaw.app) skill that gives AI agents persistent memory across sessions. Periodically reviews conversation history and writes memory files using a dual-layer system.
 
