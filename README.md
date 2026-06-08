@@ -2,7 +2,7 @@
 
 [![ClawHub](https://img.shields.io/badge/ClawHub-daily--memory--save-blue)](https://clawhub.ai/madebydia/daily-memory-save)
 
-An [OpenClaw](https://openclaw.app) skill that gives AI agents persistent memory across sessions. Periodically reviews conversation history and writes memory files using a dual-layer system.
+An OpenClaw skill that gives AI agents persistent memory across sessions. Periodically reviews conversation history and writes memory files using a dual-layer system.
 
 ## How It Works
 
@@ -41,7 +41,7 @@ The skill runs silently by default — no user notifications. See `SKILL.md` for
 
 ## Requirements
 
-- [OpenClaw](https://openclaw.app) with cron support
+- OpenClaw with cron support
 - Main session system event capability
 - Writable `memory/` directory in workspace
 
