@@ -43,6 +43,11 @@ Create or update workspace/memory/YYYY-MM-DD.md (today's date) with a daily note
 capturing what matters. If anything is significant enough for long-term memory,
 also update workspace/MEMORY.md.
 
+Before writing, read the target memory file first. Avoid duplicating existing
+sections or substantially similar notes. If a topic already exists, add only
+genuinely new details under the existing section. Prefer surgical edits over
+rewriting or re-appending the whole file.
+
 If it's been a quiet day with nothing notable, skip silently.
 Be selective — capture signal, not noise. Write like future-you will need this context.
 Do NOT message the user about this — just do it quietly.
