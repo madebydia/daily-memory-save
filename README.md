@@ -48,3 +48,7 @@ The skill runs silently by default — no user notifications. See `SKILL.md` for
 ## License
 
 MIT
+
+## Download History
+
+[![Download History](https://skill-history.com/chart/madebydia/daily-memory-save.svg)](https://skill-history.com/madebydia/daily-memory-save)
